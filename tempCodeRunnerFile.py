@@ -1,0 +1,6 @@
+num3 = input("Enter the first number: ")
+num4 = input("Enter the second number: ") 
+sum2 = float(num3) + float(num4)
+print(f"The sum of {num3} and {num4} is {sum2}")
+print(type(num3))
+print(type(num4))
